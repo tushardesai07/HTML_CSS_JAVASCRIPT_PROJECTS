@@ -1,0 +1,79 @@
+body{
+  background-color: lightskyblue;
+  width: 100%;
+  overflow: hidden;
+  min-width: 100vw;
+}
+
+nav a{
+  text-decoration: none;
+}
+nav h1{
+ font-size: 30px;
+}
+
+nav div ul{
+  background-color: lightskyblue;
+  display: flex;
+  align-items: center;
+  
+ 
+}
+nav ul {
+  list-style: none;
+}
+
+.nav1{
+  margin-left: 860px;
+ 
+}
+
+.nav2 ,.nav3 {
+  margin-left:80px ;
+}
+
+.left{
+  position: relative;
+  top: 220px;
+  left: 10%;
+}
+.left h1{
+  font-size: 45px;
+}
+
+.left h2{
+  font-size: 30px;
+  color: red;
+  overflow: hidden;
+  animation: h2 10s steps(31) 1s infinite  ;
+}
+@keyframes  h2 {
+   from{
+    width: 20%;
+   }
+   to{
+    width: 20%;
+   }
+
+  
+}
+
+#icon ul{
+    margin-top: 20px;
+    list-style: none;
+    display: flex;
+    gap: 50px;
+}
+img{
+  position: absolute;
+  left: 60%;
+  top: 35%;
+ border-radius: 50%;
+ 
+}
+button{
+  border-radius: 1cap;
+}
+
+
+   
