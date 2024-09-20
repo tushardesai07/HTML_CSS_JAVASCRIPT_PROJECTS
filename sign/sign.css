@@ -1,0 +1,43 @@
+
+body{
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+   margin-top: 50px;
+
+}
+
+.full{
+    position: absolute;
+    background-color: red;
+    width: 700px;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    text-align: center;
+   
+   
+}
+#right{
+    margin:35px;
+}
+.left{
+    background-color: pink;
+    position: relative;
+    height: 600px;
+    width: 350px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+ #pass{
+    margin-top: 15px;
+}
+.button1{
+    margin-top: 25px;
+}
