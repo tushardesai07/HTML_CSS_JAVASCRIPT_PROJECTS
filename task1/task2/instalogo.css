@@ -1,0 +1,49 @@
+body{
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin-top: 200px;
+    
+}
+section{
+    width: 200px;
+    height: 200px;
+  border: pink solid;
+   border-radius: 10px;
+   background-image: url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAJQAlAMBIgACEQEDEQH/xAAaAAADAQEBAQAAAAAAAAAAAAAAAQIDBAYF/8QAIhABAQEBAAICAgMBAQAAAAAAAAECEQMTElEEYTFBUpEh/8QAGwEAAgMBAQEAAAAAAAAAAAAAAQMAAgQGBQf/xAAcEQEAAgMBAQEAAAAAAAAAAAAAAQIDERMSURT/2gAMAwEAAhEDEQA/APK8VDkPj6TNnuxQRcTIuQq0n1qcVCkVITZorCsriZFQmzRWFRU/koqQmzTVUXExcJs0VBgFmgAKoQAZ7iAATsXyvifxbcHxdL2c/wAWXxPjWZ/RzKs5YMjEzmVSL+JzKk5DIxpVFTKpCpudWhRUEipC7WPrU4qFDJmTogwAquCMlbTqEAAZryMAAEbWc3xORp8R8Xpd2Lkz4ci+Dgdx5o+JzK+Didh5p4fFcPgdV4oUh8HDDovEaAAie1gZBPQmQBdrIAAzXkQACNing4YL/QHgFxQD9A+S4OGFv0J5AAWjOnkABeMyaAAMjKGgAFuqaAACboAAVaRAAL2Oj4Pi04OPE6jtnwcacLidU2jg4vg4PZNo4S+DhkZk2gK4VhkZhIDgNrmAAA6MqaAAXjIGgAB9oAAGxbiL4Pi5XqVtHAv4lxOqbTwcVwWLRlHaOFxfAZGVNo4XF8HDIyjtnwvi04nh1cg7RYTTibDq5FtpB8I+txAAOi6AALegdobTA9bh+rL7Yjja+MvWnRPTLhWNbgrleMo+mfC4vhWGRlWiUWJ404VydXIO0cLi7krD65B2jhKLh9brRKLE2NC401uvtmFWE01uJAA30j73rHrdU8Z+t8/9vJ6OT1l6/wBOz1lfGPROjivj/SLh23xs9YXi68XcdwzuHZrDPWDIuZF3LYmujWGVybW5kWZ2Er+CrTS66KlpxNjTS60SmxKirTSy0SmpsXU1qpZaEhXCO9C9jPGfr/TpmFet879uc9uT1p1h2XDPWBi4xdx6wz1h2az+mOsmVsbW7k1hlrLq3ljuHVk+tnLrLLWXTqMtw+sn1lzaiK13GdPrJ0J4VVU1rpK8Iv8A4VXUtdJWRSqqVaqSskGR21ntcfk7+stZ+Rv6yQcVOKnxx82ktfkb+ssdfkav9ZAWrip8SLSy159fWWOvPr6yAdXHT4dFpY68+v8AOWW/Nr/OQD4x0+Gxe31hrza+sst+bX1n/hA2uOvw6uS31lrza+oy9ur/AFDB9cdfjRGS30r5L9RPt1foA+tK/B6W+pvkv6T7L9QA+tYXjJf6V8l+om+S/UAaKQPS/wBHsv6AB+h6X+v/2Q==");
+   background-size: cover;
+    
+}
+article{
+
+    width: 120px;
+    height: 120px;
+    border: 2px white solid;
+    margin-top: 39px;
+    margin-left: 39px;
+    border-radius: 10px;
+    outline:5px  white solid;
+    
+}
+#circle{
+    width: 50px;
+    height: 50px;
+    border:2px white solid;
+    border-radius: 50%;
+    margin-top: 35px;
+    margin-left: 35px;
+    outline: 5px white solid;
+}
+#point{
+    width: 10px;
+    height: 10px;
+    border:2px white solid;
+    border-radius: 50%;
+    background-color: white;
+    position: relative;
+    top: -60%;
+    left: 75%;
+
+}

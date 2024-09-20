@@ -1,0 +1,81 @@
+body{
+    background-color: RGBA(255,000,255,0.7);
+
+}
+
+section{
+    width: 350px;
+    height:673px;
+    background-color: white;
+    margin-left: 35%;
+    
+}
+
+h1{
+    text-align: center;
+    font-size: larger;
+}
+img{
+    border-radius:50%;
+    margin-left: 25px;
+    
+}
+#button{
+    
+    margin-top: 10px;
+   text-align: center;
+ 
+}
+
+.div12{
+
+    position: relative;
+    bottom: 80px;
+    left: 220px;
+    height: 10px;
+   
+    
+    
+    
+}
+.div13{
+    position: relative;
+    bottom: 80px;
+    left: 220px;
+    height: 10px;
+    
+}
+.div14{
+    position: relative;
+    bottom: 80px;
+    left: 220px;
+    height: 10px;
+}
+
+.div15{
+    position: relative;
+    bottom: 80px;
+    left: 220px;
+    height: 10px;
+}
+.div16{
+    position: relative;
+    bottom: 80px;
+    left: 220px;
+    height: 10px;
+}
+
+.div17{
+    position: relative;
+    bottom: 80px;
+    left: 220px;
+    height: 10px;
+}
+
+.span1{
+    font-size: 20px;
+    
+
+}
+
+
