@@ -1,0 +1,60 @@
+
+body{
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    justify-content: center;
+   align-content: center;
+    background-color: whitesmoke;
+    
+}
+
+.profile{
+    width: 300px;
+    height: auto;
+    
+    background-color: whitesmoke;
+    text-align: center;
+    margin-top: 150px;
+    border-radius: 10px;
+    box-shadow: -3px -3px 7px #ffffff,
+                 3px 3px 5px #ceced1;
+  
+
+}
+.key-icon{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+#img{
+    width: 150px;
+    outline: 12px white solid ;
+    border-radius: 50%;
+
+}
+
+.role{
+    line-height: 8px;
+}
+
+.info{
+    display: flex;
+    justify-content: space-around;
+}
+.button1{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: Arial;
+    
+}
+
+
+.icons{
+    border-radius: 50%;
+    
+    
+}
